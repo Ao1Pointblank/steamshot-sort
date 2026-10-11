@@ -1,4 +1,4 @@
-# steamshot
+# steamshot-sort
 A simple background script to organize locally stored Steam game screenshots
 
 Basic dependencies:  
